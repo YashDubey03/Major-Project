@@ -1,3 +1,4 @@
+// # Initial project setup with speech recognition and UI components
 import React, { useState, useRef } from 'react';
 import { LuSearch, LuMic } from "react-icons/lu";
 import { BsChat } from "react-icons/bs";
